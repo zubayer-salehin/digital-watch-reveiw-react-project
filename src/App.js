@@ -1,7 +1,7 @@
 import { Route, Routes } from 'react-router-dom';
 import './App.css';
 import About from './components/About/About';
-import Blocks from './components/Blocks/Blocks';
+import Blocks from './components/Blogs/Blogs';
 import Dashboard from './components/Dashboard/Dashboard';
 import Header from './components/Header/Header';
 import Home from './components/Home/Home';
@@ -17,7 +17,7 @@ function App() {
         <Route path='/Home' element={<Home></Home>}></Route>
         <Route path='/Reveiw' element={<Reveiws></Reveiws>}></Route>
         <Route path='/Dashboard' element={<Dashboard></Dashboard>}></Route>
-        <Route path='/Blocks' element={<Blocks></Blocks>}></Route>
+        <Route path='/Blogs' element={<Blocks></Blocks>}></Route>
         <Route path='/About' element={<About></About>}></Route>
         <Route path='*' element={<NotFound></NotFound>}></Route>
       </Routes>

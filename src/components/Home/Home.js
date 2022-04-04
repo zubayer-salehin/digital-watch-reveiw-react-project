@@ -20,7 +20,7 @@ const Home = () => {
                 </div>
             </div>
             <div className="customer-reveiw-container">
-                <h2 className='customer-title'>Customer Reveiws(3)</h2>
+                <h2 className='customer-title'>Customer Reveiws</h2>
                 <div className="customer-reveiw product-container">
                     {productReveiw.slice(0, 3).map(singleReveiw => <ProductReveiw key={Math.random() * 10000} productReveiwInfo={singleReveiw}></ProductReveiw>)}
                 </div>

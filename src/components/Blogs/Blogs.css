@@ -1,0 +1,9 @@
+.blogs-container{
+    width:1200px;
+    margin: 0 auto;
+}
+
+.blogs-title{
+    font-size: 45px;
+    text-align: center;
+}
