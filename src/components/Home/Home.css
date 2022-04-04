@@ -1,0 +1,53 @@
+.home-container{
+    margin-top:65px;
+}
+
+.product-container{
+    width:1200px;
+    margin:0px auto;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.product-description{
+   width:550px;
+}
+
+.product-description h1{
+   color: #466cc7;
+   font-size: 55px;
+   margin:0.8rem 0rem;
+}
+
+.product-picture{
+   width:450px;
+}
+
+.product-description button{
+   border:none;
+   padding:15px 35px;
+   background-color: #516BA7;
+   color:white;
+   font-weight: 600;
+   border-radius: 5px;
+   cursor:pointer;
+}
+
+.product-picture img{
+   width:350px;
+}
+
+.customer-reveiw{
+    display: grid;
+    grid-template-columns: repeat(3,1fr);
+    gap: 50px;
+    margin: 75px auto 100px;
+}
+
+.customer-title{
+   margin-bottom:0.8rem;
+   padding-top:20px;
+   font-size: 35px;
+   text-align: center;
+}

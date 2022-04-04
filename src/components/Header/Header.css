@@ -1,0 +1,31 @@
+.main-header{
+    background-color: #516BA7;
+}
+
+.logo h2{
+    color:#fff;
+}
+
+.header-container{
+    width:1200px;
+    margin:0 auto;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.menuBar > nav > ul{
+    display: flex;
+}
+
+.menuBar > nav > ul > li{
+    list-style: none;
+}
+
+.menuBar > nav > ul > li > a{
+    text-decoration: none;
+    color:#fff;
+    margin-left:2rem;
+    font-size: 14px;
+    font-weight: 500;
+}

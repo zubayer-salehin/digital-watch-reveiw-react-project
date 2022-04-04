@@ -1,0 +1,12 @@
+.reveiws-container{
+    display: grid;
+    grid-template-columns: repeat(3,1fr);
+    gap:50px;
+    margin-top:45px;
+    margin-bottom:50px;
+}
+
+.reveiw-route-title{
+   text-align: center;
+   font-size: 35px;
+}
