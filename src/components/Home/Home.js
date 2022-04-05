@@ -12,8 +12,8 @@ const Home = () => {
         <div className='home-container'>
             <div className="product-container">
                 <div className="product-description">
-                    <h1>All New For A <br /> Better You</h1>
-                    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Commodi accusamus itaque fugit beatae eos, sit aperiam assumenda repudiandae unde, magnam molestias tempora pariatur ullam esse.</p>
+                    <h1>There’s An Apple Watch For Everyone.</h1>
+                    <p>Understanding all the ways you move throughout the day is an essential part of living a healthy life. Apple Watch shows your daily movement as three simple metrics: Move, Exercise, and Stand.</p>
                     <button>Order Now</button>
                 </div>
                 <div className="product-picture">
