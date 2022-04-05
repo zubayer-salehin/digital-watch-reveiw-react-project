@@ -42,7 +42,7 @@
     display: grid;
     grid-template-columns: repeat(3,1fr);
     gap: 50px;
-    margin: 50px auto 60px;
+    margin: 40px auto 50px;
 }
 
 .customer-title{
@@ -54,7 +54,7 @@
 
 .see-all-btn{
    text-align: center;
-   margin-bottom:35px;
+   margin-bottom:30px;
 }
 
 .see-all-btn button{
