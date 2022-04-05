@@ -1,6 +1,8 @@
-## Technologies
+# Digital Watch
 ***
-A list of work how make this website:
+## Live Website Link : 
+***
+### A list of work how make this website:
 
 * Home page : First on the website,There is a homepage.There is a picture and some text in the homepage.When you scroll the website,A customer review section will appear.There are three comments behind this section.The name of the commenter is the picture,Comments and rating reviews have been tweaked.Rating Star is using the "FontAwesome" icon website.Clicking on the All Review show button will take you to the Reveiw page.
 
