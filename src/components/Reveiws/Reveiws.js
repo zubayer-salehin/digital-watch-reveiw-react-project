@@ -9,7 +9,7 @@ const Reveiws = () => {
 
     return (
         <div>
-            <h3 className='reveiw-route-title'>Customer All Reveiws</h3>
+            <h3 className='reveiw-route-title'>What Our Customer Say!</h3>
             <div className='reveiws-container product-container'>
                 {productReveiw.map(singleReveiw => <ProductReveiw key={Math.random() * 10000} productReveiwInfo={singleReveiw}></ProductReveiw>)}
             </div>

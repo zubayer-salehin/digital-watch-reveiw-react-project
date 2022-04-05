@@ -14,7 +14,7 @@ const Home = () => {
                 <div className="product-description">
                     <h1>There’s An Apple Watch For Everyone.</h1>
                     <p>Understanding all the ways you move throughout the day is an essential part of living a healthy life. Apple Watch shows your daily movement as three simple metrics: Move, Exercise, and Stand.</p>
-                    <button>Order Now</button>
+                    <button>Live demo</button>
                 </div>
                 <div className="product-picture">
                     <img src={product} alt="" />
